@@ -1,0 +1,6 @@
+{
+  "name": "Diet AI Generator & Google Sheets",
+  "description": "AI โภชนากรแนะนำเมนูอาหารลดน้ำหนักพร้อมคำนวณแคลอรี และบันทึกประวัติลง Google Sheets อัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
